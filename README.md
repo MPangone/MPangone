@@ -24,4 +24,4 @@ Olá! Estou a caminho para me tornar um Desenvolvedor FullStack
 
 ## 🌎 Contato
 <a href="https://linkedin.com/in/murilo-pangone-642401265" target="blank"><img align="center" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/linkedin.svg" alt="bablubambal" height="40" width="40" /></a>
-<a href="https://outlook.live.com/mail/0/inbox/id/AQQkADAwATM0MDAAMS02M2UxLWU5MjEtMDACLTAwCgAQAFT9n1A055hKriYCGnMbA2Q%3D" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/519/73/png-clipart-email-computer-icons-symbol-logo-prototype-miscellaneous-text.png" alt="email" height="40" width="40" /></a>
+<a href="contatomurilopangone@outlook.com" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/519/73/png-clipart-email-computer-icons-symbol-logo-prototype-miscellaneous-text.png" alt="email" height="40" width="40" /></a>
